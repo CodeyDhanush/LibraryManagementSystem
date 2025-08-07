@@ -4,15 +4,15 @@ This is a console-based mini Library Management System built using Java and Obje
 
 ---
 
-## 🚀 Features
-- Add and view books 📘
-- Add and view users 👤
-- Issue and return books 🔁
+## Features
+- Add and view books
+- Add and view users 
+- Issue and return books 
 - Menu-based navigation
 
 ---
 
-## 🧠 OOP Concepts Applied
+##  OOP Concepts Applied
 - ✅ Abstraction
 - ✅ Encapsulation
 - ✅ Object interaction
@@ -20,14 +20,14 @@ This is a console-based mini Library Management System built using Java and Obje
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 - Java
 - VS Code / IntelliJ
 - Terminal / Command Line
 
 ---
 
-## 🗂 Classes Used
+## Classes Used
 
 | Class     | Purpose                            |
 |-----------|-------------------------------------|
@@ -38,5 +38,4 @@ This is a console-based mini Library Management System built using Java and Obje
 
 ---
 
-## 📸 Sample Output
 
